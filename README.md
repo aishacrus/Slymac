@@ -1,2 +1,2 @@
 # Slymac
-# Slymac
+http://nodeschool.io/#workshoppers
